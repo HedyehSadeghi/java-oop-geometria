@@ -16,5 +16,7 @@ public class Main {
         System.out.println("area = "+ rettangolo.calcolaArea());
         rettangolo.disegna();
 
+        scanner.close();
+
     }
 }
