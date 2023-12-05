@@ -34,7 +34,7 @@ public class Rettangolo {
                 System.out.println(linea);
             } else{
                 linea="0";
-                for (int j = 0; j <base-2 ; j++) {
+                for (int j = 1; j <base-1 ; j++) {
                     linea+= " ";
                 }
                 linea += "0";
